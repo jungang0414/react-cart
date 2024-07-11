@@ -1,5 +1,27 @@
 # Vite + React
 
+### 如何在本地使用
+1. 複製專案
+```
+git clone https://github.com/jungang0414/react-cart.git
+```
+
+2. 切換路徑到專案資料夾
+```
+cd react-cart
+```
+
+3. 安裝所有依賴項目
+```
+npm install
+```
+
+4. 啟動專案
+```
+npm run dev
+```
+
+
 ## useEffect
 
 - 依賴變化時執行副作用

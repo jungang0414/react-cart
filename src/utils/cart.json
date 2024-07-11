@@ -1,0 +1,30 @@
+[
+    {
+        "name":"商品1",
+        "img":"https://via.placeholder.com/150",
+        "price":100,
+        "count":0,
+        "selected":false
+    },
+    {
+        "name":"商品2",
+        "img":"https://via.placeholder.com/150",
+        "price":560,
+        "count":0,
+        "selected":false
+    },
+    {
+        "name":"商品3",
+        "img":"https://via.placeholder.com/150",
+        "price":900,
+        "count":0,
+        "selected":false
+    },
+    {
+        "name":"商品4",
+        "img":"https://via.placeholder.com/150",
+        "price":280,
+        "count":0,
+        "selected":false
+    }
+]

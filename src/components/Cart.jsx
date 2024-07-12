@@ -41,7 +41,7 @@ const Cart = () => {
 
   //移除商品
 
-  //選取商品
+  //選取商品 使用useCallback避免重複創建函數
   const selectItem = useCallback(
     (i) => {
       //選取商品的item
@@ -106,7 +106,6 @@ const Cart = () => {
               addItem={addItem}
               subItem={subItem}
               selectItem={selectItem}
-              getTotalPrice={getTotalPrice}
             />
           ))}
         </ul>
